@@ -145,7 +145,7 @@ Both are also installed by the Sheer [`requirements.txt` file](#installation).
 To run the tests, simply run:
 
 ```shell
-nosetest sheer
+nosetests sheer
 ```
 
 ## Quick Start
